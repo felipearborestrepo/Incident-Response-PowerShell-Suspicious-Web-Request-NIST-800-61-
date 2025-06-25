@@ -54,7 +54,7 @@ DeviceProcessEvents
 | where FileName == "powershell.exe"
 | where ProcessCommandLine contains "invoke-WebRequest"
 ```
-![Screenshot 2025-06-24 234521](https://github.com/user-attachments/assets/e664e423-be08-4553-975a-1f3b06279ff7)
+![image](https://github.com/user-attachments/assets/b35df73c-385d-4270-88e2-d8505cba2840)
 
 - **Entity Mapping:**
   - Account → AccountName
