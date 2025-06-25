@@ -60,6 +60,7 @@ DeviceProcessEvents
   - Account → AccountName
   - Host → DeviceName
   - Process → ProcessCommandLine
+
 ![Screenshot 2025-06-24 234645](https://github.com/user-attachments/assets/d8c4abf2-1602-4244-bcb8-0dd5bdced36c)
 
 - **Query Schedule:** Every 4 hours, looking back 24 hours
